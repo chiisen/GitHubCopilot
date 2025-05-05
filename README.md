@@ -2,7 +2,7 @@
 GitHub Copilot 進階實戰開發
 
 # Licensing
-https://github.com/settings/billing/licensing
-![GitHub - Current plan](./images/GitHub_Current_plan.png)
-這邊可以看一下免費版的使用限制，需要可以付費訂閱。
+[Licensing](./docs/Licensing.md)
 
+# (GitHub Copilot 【自訂指令與行為設定】)類似 Cline 的 .clinerules 功能
+[(GitHub Copilot 【自訂指令與行為設定】)類似 Cline 的 .clinerules 功能](./docs/codeGeneration.md)
