@@ -6,4 +6,6 @@ GitHub Copilot 進階實戰開發
 
 # (GitHub Copilot 【自訂指令與行為設定】)類似 Cline 的 .clinerules 功能
 [codeGeneration](./docs/codeGeneration.md)
+Rules 的設定可以參考 VSCode 的 Cline Rules 套件  
+Cline Rules 中文文件網址: https://github.com/henryalps/vscode-clinerules/blob/HEAD/README-cn.md  
 
