@@ -1,6 +1,7 @@
 # (GitHub Copilot 【自訂指令與行為設定】)類似 Cline 的 .clinerules 功能
 需要在 `C:\Users\【使用者名稱】\AppData\Roaming\Code\User\settings.json`進行設定  
-或 `C:\Users\【使用者名稱】\AppData\Roaming\Code - Insiders\User\settings.json`
+或 `C:\Users\【使用者名稱】\AppData\Roaming\Code - Insiders\User\settings.json`  
+或 `C:\Users\【使用者名稱】\AppData\Roaming\VSCodium\User\settings.json`  
 ```json
 {
   "github.copilot.chat.codeGeneration.instructions": [
