@@ -1,5 +1,5 @@
 # GitHubCopilot
-GitHub Copilot 進階實戰開發
+GitHub Copilot 進階實戰開發【由 GitHub 與 OpenAI 共同開發的 AI 程式設計助手，透過人工智慧技術，為開發者帶來高效率且智慧化的程式開發體驗】  
 
 # Licensing (可以看一下免費版的使用限制)
 [Licensing](./docs/Licensing.md)
