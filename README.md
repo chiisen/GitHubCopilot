@@ -4,6 +4,19 @@ GitHub Copilot 進階實戰開發【由 GitHub 與 OpenAI 共同開發的 AI 程
 # Licensing (可以看一下免費版的使用限制)
 [Licensing](./docs/Licensing.md)  
 
+# 讓 code-runner 輸出到 Terminal (Python)
+GitHub Copilot 只有 `#terminalLastCommand`  
+無法取得 【輸出】視窗的訊息  
+所以調整 `code-runner.runInTerminal`  
+方便分析錯誤，不用複製貼上，省麻煩。  
+
+## 設定預設終端機
+```shell
+terminal.integrated.defaultProfile
+```
+`Command Prompt` 是 `cmd.exe`  
+`PowerShell` 是 `PowerShell 7.5.1`  
+
 # (GitHub Copilot 【自訂指令與行為設定】)類似 Cline 的 .clinerules 功能
 [codeGeneration](./docs/codeGeneration.md)  
 Rules 的設定可以參考 VSCode 的 Cline Rules 套件  
