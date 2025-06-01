@@ -53,3 +53,5 @@ Copilot 會幫你分析剛剛執行的那行指令，讓你秒懂。
 @terminal：讓 Copilot 幫你寫或解釋指令。  
 #terminalLastCommand：讓 Copilot 解釋你剛剛執行的指令。  
 一個是「主動幫忙」，一個是「回頭解釋」，各司其職，互不搶戲！
+
+[GitHub Copilot Chat 中「#」與「@」指令完整說明](./docs/GitHubCopilot.md)
